@@ -1,0 +1,87 @@
+# Um anime por linha — personagens de qualquer série listada aqui serão reclamados
+
+# ── Ação / Shounen ─────────────────────────────────────────────────────────────
+Attack on Titan
+Bleach
+Chainsaw Man
+Dandadan
+Demon Slayer: Kimetsu no Yaiba
+Fairy Tail
+Fullmetal Alchemist
+Fullmetal Alchemist: Brotherhood
+Hunter x Hunter
+Jujutsu Kaisen
+My Hero Academia
+Naruto
+One Piece
+Soul Eater
+
+# ── Isekai / Fantasia ──────────────────────────────────────────────────────────
+Arifureta: From Commonplace to World's Strongest
+Date A Live
+Dungeon Mechi
+Goblin Slayer
+How Not to Summon a Demon Lord
+In Another World With My Smartphone
+Infinite Stratos
+Konosuba
+Mushoku Tensei: Jobless Reincarnation
+No Game no Life
+Overlord
+Re:Zero kara Hajimeru Isekai Seikatsu
+Sword Art Online
+That Time I Got Reincarnated as a Slime
+The Eminence in Shadow
+The Rising of the Shield Hero
+
+# ── Romance / Slice of Life ────────────────────────────────────────────────────
+5-toubun no Hanayome
+Angel Beats
+Bocchi the Rock
+Clannad
+Kobayashi-san Chi no Maid Dragon
+Lycoris Recoil
+Masamune-kun no Revenge
+Nisekoi
+Oregairu
+Oshi no Ko
+Rent-a-Girlfriend
+Shokugeki no Souma
+Sono Bisque Doll wa Koi wo Suru
+SPYXFamily
+Toradora
+Violet Evergarden
+Your Lie in April
+
+# ── Suspense / Thriller ────────────────────────────────────────────────────────
+Danganronpa: Trigger Happy Havoc
+Death Note
+Kakegurui
+Steins;Gate
+
+# ── Ecchi / Harem ──────────────────────────────────────────────────────────────
+High School DxD
+Interspecies Reviewers
+Masou Gakuen HxH
+Mieruko-chan
+Peter Grill to Kenja no Jikan
+To Love-Ru
+Yofukashi no Uta
+
+# ── Outros ─────────────────────────────────────────────────────────────────────
+Akame ga Kill
+Avatar: The Last Airbender
+Blue Exorcist
+Code Geass: Hangyaku no Lelouch
+Danmachi
+Fate/Grand Order
+Fate/stay night
+Fate/Zero
+Kaguya-sama wa Kokurasetai
+Monogatari
+Neon Genesis Evangelion
+Noragami
+Persona 5
+Seraph of the End
+Sousou no Frieren
+Tokyo Ghoul
