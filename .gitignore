@@ -1,0 +1,6 @@
+.env
+*.pyc
+.playwright-mcp/
+__pycache__/
+.claude/
+docs/
